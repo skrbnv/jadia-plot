@@ -1,0 +1,23 @@
+[project]
+name = "jadia-plot"
+version = "0.0.1"
+authors = [
+  { name="Sergey Skrebnev", email="sergey.skrebnev@gmail.com" },
+]
+description = "Plot functions for Jadia package"
+readme = "README.md"
+dependencies = [
+  "numpy>=2.1.0",
+  "matplotlib>=3.8.0",
+  "jadia>=0.1"
+]
+
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MITLicense",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/skrbnv/jadia-plot"

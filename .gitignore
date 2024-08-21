@@ -1,0 +1,6 @@
+.vscode
+__pycache__
+src/jadia_plot/__pycache__
+*.pyc
+dist
+src/jadia_plot.egg-info
